@@ -10,7 +10,7 @@ spring:
         name: microservice-config-eureka 
 eureka: 
     instance: 
-        hostname: eureka6001.com 
+        hostname: eureka.6001.com 
     client: 
         registerWithEureka: false 
         fetchRegistry: false 
@@ -26,7 +26,7 @@ spring:
         name: microservice-config-eureka 
 eureka:
     instance: 
-        hostname: eureka6001.com 
+        hostname: eureka.6001.com 
     client: 
         registerWithEureka: false 
         fetchRegistry: false 
